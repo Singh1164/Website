@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FA79C0D7-C00D-4C10-99A9-D1F22ED45B81}"
+	ProjectSection(SolutionItems) = preProject
+		MontrealTourism.html = MontrealTourism.html
+		css\mt.css = css\mt.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {293F6F25-A946-44CB-811B-B6045B5FCBCC}
+	EndGlobalSection
+EndGlobal
